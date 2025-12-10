@@ -1,23 +1,22 @@
 # macOS
 .DS_Store
 
+# Virtual environment
+venv/
+
 # Python cache
 __pycache__/
 *.pyc
 
-# Virtual environment
-venv/
-
 # VS Code
 .vscode/
 
-# Jupyter Notebook Checkpoints
+# Notebooks cache
 .ipynb_checkpoints/
 
-# Data folders to avoid uploading large datasets
-data/raw/
+# Curated data
 data/curated/
 
-# Environment variables
+# Secrets
 .env
 config/*.json
