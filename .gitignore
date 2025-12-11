@@ -13,10 +13,3 @@ __pycache__/
 
 # Notebooks cache
 .ipynb_checkpoints/
-
-# Curated data
-data/curated/
-
-# Secrets
-.env
-config/*.json
